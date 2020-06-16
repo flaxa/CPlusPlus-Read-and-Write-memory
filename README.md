@@ -1,4 +1,4 @@
-# c-dummyProgram-Project
+# c++ dummyProgram Project
 Simple dummy program with reader and writer.
 
 Written in c++ using the windows API these are my first c++ programs.
